@@ -776,6 +776,13 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   transform: translateY(-6px);
   box-shadow: var(--shadow-lg);
 }
+.program-card__icon {
+  width: 56px; height: 56px;
+  background: var(--green-xl);
+  border-radius: 14px;
+  display: flex; align-items: center; justify-content: center;
+  margin-bottom: 16px;
+}
 .program-card__tag {
   display: inline-block;
   font-size: 0.72rem;
