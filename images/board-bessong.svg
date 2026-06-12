@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="100" fill="#E8F5EE"/>
+
+  <!-- Shoulders / blazer -->
+  <ellipse cx="100" cy="185" rx="68" ry="45" fill="#1B6B45"/>
+  <ellipse cx="100" cy="172" rx="48" ry="34" fill="#2D9E69"/>
+
+  <!-- Neck -->
+  <rect x="88" y="128" width="24" height="22" rx="6" fill="#7B4F2E"/>
+
+  <!-- Head -->
+  <ellipse cx="100" cy="110" rx="38" ry="42" fill="#8B5A2B"/>
+
+  <!-- Natural hair — top fullness -->
+  <ellipse cx="100" cy="72" rx="44" ry="30" fill="#1a0a00"/>
+  <!-- Hair sides -->
+  <ellipse cx="64" cy="90" rx="16" ry="22" fill="#1a0a00"/>
+  <ellipse cx="136" cy="90" rx="16" ry="22" fill="#1a0a00"/>
+  <!-- Hair top volume -->
+  <ellipse cx="100" cy="65" rx="38" ry="26" fill="#221100"/>
+  <!-- Hair highlight -->
+  <ellipse cx="90" cy="62" rx="12" ry="8" fill="#2e1800" opacity="0.6"/>
+
+  <!-- Eyes -->
+  <ellipse cx="85" cy="108" rx="7" ry="5" fill="#fff"/>
+  <ellipse cx="115" cy="108" rx="7" ry="5" fill="#fff"/>
+  <circle cx="86" cy="108" r="4" fill="#2a1200"/>
+  <circle cx="116" cy="108" r="4" fill="#2a1200"/>
+  <circle cx="87.5" cy="106.5" r="1.2" fill="#fff"/>
+  <circle cx="117.5" cy="106.5" r="1.2" fill="#fff"/>
+
+  <!-- Eyebrows -->
+  <path d="M78 101 Q85 97 92 100" stroke="#1a0a00" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M108 100 Q115 97 122 101" stroke="#1a0a00" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M97 114 Q100 122 103 114" stroke="#6b3f1a" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <ellipse cx="93" cy="121" rx="4" ry="2.5" fill="#6b3f1a" opacity="0.4"/>
+  <ellipse cx="107" cy="121" rx="4" ry="2.5" fill="#6b3f1a" opacity="0.4"/>
+
+  <!-- Smile -->
+  <path d="M88 128 Q100 137 112 128" stroke="#5a2a0a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Lips -->
+  <path d="M88 128 Q100 133 112 128 Q100 140 88 128Z" fill="#c07048" opacity="0.7"/>
+
+  <!-- Earrings -->
+  <circle cx="63" cy="112" r="4" fill="#E8A020"/>
+  <circle cx="137" cy="112" r="4" fill="#E8A020"/>
+
+  <!-- Collar detail -->
+  <path d="M76 152 L100 165 L124 152" stroke="#fff" stroke-width="2" fill="none" opacity="0.4"/>
+</svg>
